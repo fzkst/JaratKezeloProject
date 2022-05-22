@@ -1,6 +1,6 @@
 ﻿namespace JaratKezeloProject
 {
-    public class Class1
+    public class JaratKezelo
     {
 
     }
